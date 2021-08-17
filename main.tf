@@ -1,5 +1,5 @@
 terraform {
-  required_providers = ">=0.12.13"
+  required_version = ">=0.12.13"
   
 
 
